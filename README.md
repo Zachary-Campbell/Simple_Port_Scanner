@@ -32,4 +32,3 @@ Do not scan networks you do not own or have explicit permission to test.
 ## 🧠 Author
 
 Zachary Campbell  
-[https://www.zacharycampbell.dev](https://www.zacharycampbell.dev)
